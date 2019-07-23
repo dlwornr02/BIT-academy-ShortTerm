@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex160706", "ex160706\ex160706.vcxproj", "{158A340B-A3E2-4B3E-AEF4-898F8EA6F848}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointApp", "pointApp\pointApp.vcxproj", "{47177296-BEEB-443E-B702-D0A973B0824E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{158A340B-A3E2-4B3E-AEF4-898F8EA6F848}.Debug|Win32.ActiveCfg = Debug|Win32
+		{158A340B-A3E2-4B3E-AEF4-898F8EA6F848}.Debug|Win32.Build.0 = Debug|Win32
+		{158A340B-A3E2-4B3E-AEF4-898F8EA6F848}.Release|Win32.ActiveCfg = Release|Win32
+		{158A340B-A3E2-4B3E-AEF4-898F8EA6F848}.Release|Win32.Build.0 = Release|Win32
+		{47177296-BEEB-443E-B702-D0A973B0824E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47177296-BEEB-443E-B702-D0A973B0824E}.Debug|Win32.Build.0 = Debug|Win32
+		{47177296-BEEB-443E-B702-D0A973B0824E}.Release|Win32.ActiveCfg = Release|Win32
+		{47177296-BEEB-443E-B702-D0A973B0824E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

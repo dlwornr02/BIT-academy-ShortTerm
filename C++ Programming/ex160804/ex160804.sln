@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex160804", "ex160804\ex160804.vcxproj", "{E330C69F-5760-4F27-A8A1-BB87E3F3202D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TelPhoneBookApp", "TelPhoneBookApp\TelPhoneBookApp.vcxproj", "{668982CF-6558-41A7-BD06-D983CCFA63EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E330C69F-5760-4F27-A8A1-BB87E3F3202D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E330C69F-5760-4F27-A8A1-BB87E3F3202D}.Debug|Win32.Build.0 = Debug|Win32
+		{E330C69F-5760-4F27-A8A1-BB87E3F3202D}.Release|Win32.ActiveCfg = Release|Win32
+		{E330C69F-5760-4F27-A8A1-BB87E3F3202D}.Release|Win32.Build.0 = Release|Win32
+		{668982CF-6558-41A7-BD06-D983CCFA63EC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{668982CF-6558-41A7-BD06-D983CCFA63EC}.Debug|Win32.Build.0 = Debug|Win32
+		{668982CF-6558-41A7-BD06-D983CCFA63EC}.Release|Win32.ActiveCfg = Release|Win32
+		{668982CF-6558-41A7-BD06-D983CCFA63EC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

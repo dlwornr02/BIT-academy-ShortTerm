@@ -1,0 +1,17 @@
+﻿빌드 시작: 2016-08-10 오전 3:50:58
+     1>2 노드의 "D:\Project\C++언어\ex160728\ex160728\ex160728.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\ex160728.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Project\C++언어\ex160728\Debug\ex160728.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ex160728.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Project\C++언어\ex160728\Debug\ex160728.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Project\C++언어\ex160728\Debug\ex160728.lib" /MACHINE:X86 Debug\main.obj
+     1>main.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/INCREMENTAL:NO' 사양으로 인해 무시됩니다.
+     1>MSVCRTD.lib(crtexe.obj) : error LNK2019: _main 외부 기호(참조 위치: ___tmainCRTStartup 함수)에서 확인하지 못했습니다.
+     1>D:\Project\C++언어\ex160728\Debug\ex160728.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
+     1>"D:\Project\C++언어\ex160728\ex160728\ex160728.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.25

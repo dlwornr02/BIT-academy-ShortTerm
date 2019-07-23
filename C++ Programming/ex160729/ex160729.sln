@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex160729", "ex160729\ex160729.vcxproj", "{BFBDC60F-2A0C-49AA-8A0A-AA4C7E71C101}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StringApp", "StringApp\StringApp.vcxproj", "{9ACF2DB1-9F97-432B-BC09-05ADC011653A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFBDC60F-2A0C-49AA-8A0A-AA4C7E71C101}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFBDC60F-2A0C-49AA-8A0A-AA4C7E71C101}.Debug|Win32.Build.0 = Debug|Win32
+		{BFBDC60F-2A0C-49AA-8A0A-AA4C7E71C101}.Release|Win32.ActiveCfg = Release|Win32
+		{BFBDC60F-2A0C-49AA-8A0A-AA4C7E71C101}.Release|Win32.Build.0 = Release|Win32
+		{9ACF2DB1-9F97-432B-BC09-05ADC011653A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9ACF2DB1-9F97-432B-BC09-05ADC011653A}.Debug|Win32.Build.0 = Debug|Win32
+		{9ACF2DB1-9F97-432B-BC09-05ADC011653A}.Release|Win32.ActiveCfg = Release|Win32
+		{9ACF2DB1-9F97-432B-BC09-05ADC011653A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

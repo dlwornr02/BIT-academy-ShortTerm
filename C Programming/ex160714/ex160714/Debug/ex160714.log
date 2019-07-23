@@ -1,0 +1,13 @@
+﻿빌드 시작: 2016-07-15 오후 3:41:36
+     1>2 노드의 "D:\Project\C언어\ex160714\ex160714\ex160714.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\ex160714.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>d:\project\c언어\ex160714\ex160714\main.c(189): fatal error C1083: 포함 파일을 열 수 없습니다. 'unistd.h': No such file or directory
+     1>"D:\Project\C언어\ex160714\ex160714\ex160714.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.53

@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex160805", "ex160805\ex160805.vcxproj", "{C2B51FF5-B7AC-4862-964C-772181248921}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TelPhoneBookApp3", "TelPhoneBookApp3\TelPhoneBookApp3.vcxproj", "{668982CF-6558-41A7-BD06-D983CCFA63EC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TelPhoneBookApp4", "TelPhoneBookApp4\TelPhoneBookApp4.vcxproj", "{DD012462-C8B3-4A57-A7BC-EE6DF82730F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TelPhoneBookApp5", "TelPhoneBookApp5\TelPhoneBookApp5.vcxproj", "{1790BB1B-C0C8-44AE-A00C-017A44F53BD2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TelPhoneBookApp6", "TelPhoneBookApp6\TelPhoneBookApp6.vcxproj", "{78854999-8D19-4FEF-9EBE-A960062884BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2B51FF5-B7AC-4862-964C-772181248921}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C2B51FF5-B7AC-4862-964C-772181248921}.Debug|Win32.Build.0 = Debug|Win32
+		{C2B51FF5-B7AC-4862-964C-772181248921}.Release|Win32.ActiveCfg = Release|Win32
+		{C2B51FF5-B7AC-4862-964C-772181248921}.Release|Win32.Build.0 = Release|Win32
+		{668982CF-6558-41A7-BD06-D983CCFA63EC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{668982CF-6558-41A7-BD06-D983CCFA63EC}.Debug|Win32.Build.0 = Debug|Win32
+		{668982CF-6558-41A7-BD06-D983CCFA63EC}.Release|Win32.ActiveCfg = Release|Win32
+		{668982CF-6558-41A7-BD06-D983CCFA63EC}.Release|Win32.Build.0 = Release|Win32
+		{DD012462-C8B3-4A57-A7BC-EE6DF82730F1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD012462-C8B3-4A57-A7BC-EE6DF82730F1}.Debug|Win32.Build.0 = Debug|Win32
+		{DD012462-C8B3-4A57-A7BC-EE6DF82730F1}.Release|Win32.ActiveCfg = Release|Win32
+		{DD012462-C8B3-4A57-A7BC-EE6DF82730F1}.Release|Win32.Build.0 = Release|Win32
+		{1790BB1B-C0C8-44AE-A00C-017A44F53BD2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1790BB1B-C0C8-44AE-A00C-017A44F53BD2}.Debug|Win32.Build.0 = Debug|Win32
+		{1790BB1B-C0C8-44AE-A00C-017A44F53BD2}.Release|Win32.ActiveCfg = Release|Win32
+		{1790BB1B-C0C8-44AE-A00C-017A44F53BD2}.Release|Win32.Build.0 = Release|Win32
+		{78854999-8D19-4FEF-9EBE-A960062884BD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{78854999-8D19-4FEF-9EBE-A960062884BD}.Debug|Win32.Build.0 = Debug|Win32
+		{78854999-8D19-4FEF-9EBE-A960062884BD}.Release|Win32.ActiveCfg = Release|Win32
+		{78854999-8D19-4FEF-9EBE-A960062884BD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

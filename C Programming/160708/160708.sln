@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "160708", "160708\160708.vcxproj", "{4703E000-1B91-41F3-9A36-587FCD34CB13}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FuncApp", "FuncApp\FuncApp.vcxproj", "{23517868-8724-4432-932F-8D1B63896121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4703E000-1B91-41F3-9A36-587FCD34CB13}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4703E000-1B91-41F3-9A36-587FCD34CB13}.Debug|Win32.Build.0 = Debug|Win32
+		{4703E000-1B91-41F3-9A36-587FCD34CB13}.Release|Win32.ActiveCfg = Release|Win32
+		{4703E000-1B91-41F3-9A36-587FCD34CB13}.Release|Win32.Build.0 = Release|Win32
+		{23517868-8724-4432-932F-8D1B63896121}.Debug|Win32.ActiveCfg = Debug|Win32
+		{23517868-8724-4432-932F-8D1B63896121}.Debug|Win32.Build.0 = Debug|Win32
+		{23517868-8724-4432-932F-8D1B63896121}.Release|Win32.ActiveCfg = Release|Win32
+		{23517868-8724-4432-932F-8D1B63896121}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
